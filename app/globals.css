@@ -1,0 +1,16 @@
+@import 'tailwindcss';
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --primary: #2563EB;
+  --text-accent: #1E40AF;
+  }
+
+
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
